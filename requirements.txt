@@ -1,0 +1,16 @@
+# PhantomTouch - Core Dependencies
+# Python >= 3.11 (tested on Python 3.13)
+
+# Computer Vision & Machine Learning
+opencv-python>=4.8.0
+mediapipe>=0.10.14
+numpy>=1.26.0
+
+# Desktop GUI Framework
+PySide6>=6.5.0
+
+# Automated Testing
+pytest>=8.0.0
+
+# Optional Virtual Camera Output (Zoom, Meet, OBS)
+pyvirtualcam>=0.11.0
